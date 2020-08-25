@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+* I am a Computer Programmer.
+
+* I ❤️ Call of Duty. 
+
+* I am contributing to Open Source.
