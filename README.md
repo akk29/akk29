@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 * I am a Computer Programmer.
 
-* I ❤️  Call of Duty. 
+* I am a Call of Duty Player. 
 
 * I am contributing to Open Source.
