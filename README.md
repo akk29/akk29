@@ -15,8 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* I am a Computer Programmer.
-
-* I am a Call of Duty Player. 
-
-* I am contributing to Open Source.
+* I am a Computer Programmer. Intersted in Solving Complex Problems using Computer Programs. :)
