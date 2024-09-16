@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* I am a Computer Programmer. Interested in Solving Complex Problems using Computer Programs. :)
+* I am a Software Engineer. Interested in Solving Complex Problems using Computer Programs. :)
