@@ -3,8 +3,9 @@
 - 🔭 I’m currently working as **Software Engineer**
 - 🌱 I’m currently learning **System Design** 
 - 👯 I’m looking to collaborate on **open source / commercial projects**
-- 💬 Ask me about Software Engineering
-- 📫 How to reach me: [Portfolio](https://akk29.github.io/), [LinkedIn](https://www.linkedin.com/in/akshay-kathpal/)
+- 💬 Ask me about Software Engineering, Call of Duty, Basketball & fixing things !!!
+- 🚀 Checkout by [Resume](https://bit.ly/ak29-resume)
+- 📫 How to reach me : [Portfolio](https://akk29.github.io/), [LinkedIn](https://www.linkedin.com/in/akshay-kathpal/), [Twitter](https://x.com/AkshayKathpal)
 - ⚙️ Tech Stack : React, Node, JavaScript, Python, AWS, MYSQL, MongoDB, Git, Docker, Kubernetes, TypeScript.
 
 
