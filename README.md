@@ -1,18 +1,41 @@
-### Hi there 👋 , I'm Akshay Kathpal. Thanks for checking out my profile !
+# 👋 Hi, I’m Akshay
 
-- 🔭 I’m currently working as **Software Engineer**
-- 🌱 I’m currently learning **System Design** 
-- 👯 I’m looking to collaborate on **open source / commercial projects**
-- 💬 Ask me about Software Engineering, Call of Duty, Basketball & fixing things !!!
-- 🚀 Checkout by [Resume](https://bit.ly/ak29-resume)
-- 📫 How to reach me : [Portfolio](https://akk29.github.io/), [LinkedIn](https://www.linkedin.com/in/akshay-kathpal/), [Twitter](https://x.com/AkshayKathpal)
-- ⚙️ Tech Stack : React, Node, JavaScript, Python, AWS, MYSQL, MongoDB, Git, Docker, Kubernetes, TypeScript.
+I’m a Software engineer passionate about simplicity, clean architecture, and scalable systems.
+
+---
+
+## 🧠 About me
+- 🔭 Currently working on high-performance internet application services  
+- 🌱 Learning distributed system design  
+
+---
+
+## 🛠 Tech Stack
+
+| Category | Tools |
+|---------|-------|
+| Progamming Languages | Python, JavaScript, TypeScript, Java |
+| Backend | Redis, Kafka, Django, Node.js, HTTP, RabbitMQ|
+| Databases | PostgreSQL, MySQL, MongoDB |
+| Frontend | HTML, CSS, React |
+| Infra | Docker, Kubernetes, GitHub , Linux, AWS, Git |
+
+---
+
+## 📈 My GitHub Metrics
+
+![Akshay GitHub Stats](https://github-readme-stats.vercel.app/api?username=akk29&show_icons=true&theme=default)
+
+---
+
+## 🧩 Featured Projects
 
 
-<!--
-**babygame0ver/babygame0ver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌐 Links
+- 💼 LinkedIn  
+- 📁 Portfolio  
+- ✉️ Email
 
-
--->
+Thanks for stopping by!
