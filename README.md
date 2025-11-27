@@ -1,12 +1,6 @@
-# 👋 Hi, I’m Akshay
+# 👋 Hi, I’m Akshay Kathpal
 
 I’m a Software engineer passionate about simplicity, clean architecture, and scalable systems.
-
----
-
-## 🧠 About me
-- 🔭 Currently working on high-performance internet application services  
-- 🌱 Learning distributed system design  
 
 ---
 
@@ -15,7 +9,7 @@ I’m a Software engineer passionate about simplicity, clean architecture, and s
 | Category | Tools |
 |---------|-------|
 | Progamming Languages | Python, JavaScript, TypeScript, Java |
-| Backend | Redis, Kafka, Django, Node.js, HTTP, RabbitMQ|
+| Backend | Redis, Kafka, Django, Node.js, RabbitMQ|
 | Databases | PostgreSQL, MySQL, MongoDB |
 | Frontend | HTML, CSS, React |
 | Infra | Docker, Kubernetes, GitHub , Linux, AWS, Git |
@@ -30,12 +24,15 @@ I’m a Software engineer passionate about simplicity, clean architecture, and s
 
 ## 🧩 Featured Projects
 
+🔹 [**Swippter**](https://github.com/akk29/swippter) – Ecommerce Store for fast fashion, Tech used in Project Python, Django, Redis, Kubernetes.
+
+🔹 [**GitPy**](https://github.com/akk29/gitpy) – Python Package to GitHub REST API
 
 ---
 
 ## 🌐 Links
-- 💼 LinkedIn  
-- 📁 Portfolio  
-- ✉️ Email
+
+- 💼 <a href="https://www.linkedin.com/in/akshay-kathpal/" target="_blank">LinkedIn</a>
+- 📁 <a href="https://akk29.github.io/" target="_blank">Portfolio</a>
 
 Thanks for stopping by!
