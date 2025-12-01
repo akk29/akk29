@@ -16,12 +16,6 @@ I’m a Software engineer passionate about simplicity, clean architecture, and s
 
 ---
 
-## 📈 My GitHub Metrics
-
-![Akshay GitHub Stats](https://github-readme-stats.vercel.app/api?username=akk29&show_icons=true&theme=default)
-
----
-
 ## 🧩 Featured Projects
 
 🔹 [**Swippter**](https://github.com/akk29/swippter) – Ecommerce Store for fast fashion, Tech used in Project Python, Django, Redis, Kubernetes.
