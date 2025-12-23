@@ -2,7 +2,7 @@
 
 I’m a Software engineer passionate about simplicity, clean architecture, and scalable systems.
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akk29&theme=github) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=akk29&theme=github) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akk29&theme=github&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akk29&theme=tokyonight) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=akk29&theme=tokyonight) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akk29&theme=tokyonight&utcOffset=8)
 
 
 
