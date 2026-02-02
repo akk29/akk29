@@ -22,7 +22,7 @@ I’m a Software engineer passionate about simplicity, clean architecture, and s
 
 ## 🧩 Featured Projects
 
-🔹 [**Swippter**](https://github.com/akk29/swippter) – Fast-fashion online storefront, Tech used in Project Python, Django, Redis, Kubernetes.
+🔹 [**Swippter**](https://github.com/akk29/swippter) – Fast-fashion online storefront.
 
 🔹 [**GitPy**](https://github.com/akk29/gitpy) – Python Package to GitHub REST API.
 
