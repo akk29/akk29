@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Akshay Kathpal
 
-I’m a Software engineer passionate about simplicity, clean architecture, and scalable systems.
+Software engineer passionate about simple, clean architecture, and scalable systems.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akk29&theme=tokyonight) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=akk29&theme=tokyonight) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akk29&theme=tokyonight&utcOffset=8)
 
